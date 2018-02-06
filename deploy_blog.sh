@@ -1,3 +1,2 @@
-hexo g
-echo "www.gangliu.top" >public/CNAME
-hexo d
+echo "www.gangliu.top" >source/CNAME
+hexo g -d
