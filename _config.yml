@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Gangliu's Blog
-subtitle: 
-description: hahhaah
+title: Gang's Blog
+subtitle: Pack my box with five dozen liquor jugs.
+description: desc
 author: Gang Liu
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -72,6 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+# landscape  next   yilia
 theme: next
 
 # Deployment
