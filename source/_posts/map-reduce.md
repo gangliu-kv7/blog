@@ -6,7 +6,7 @@ tags: MapReduce,分布式计算
 
 ### 作者 Jeff Dean
 
-!["Jeff dean"](https://i.ytimg.com/vi/g_k1wzH-gsY/maxresdefault.jpg)
+!["Jeff dean"](http://pegw4tvmf.bkt.clouddn.com/image/jeff_dean.jpg)
 
 #### 主要贡献
 
@@ -30,7 +30,7 @@ tags: MapReduce,分布式计算
 
 - 容错 & 分布可靠
 
-- 负载均衡
+- 自动负载均衡
 
 - 很容易的进行分布式开发
 
@@ -118,9 +118,9 @@ REGISTER_REDUCER(Adder);
 
 #### 流程
 
-原论文中插图：![image-20180823020032100](../images/map_reduce_figure1.png)
+原论文中插图：![image-20180823020032100](http://pegw4tvmf.bkt.clouddn.com/image/map_reduce_figure1.png)
 
-盗用一张说明Hadoop的图 ![img](../images/hadoop_map_reduce.png)
+盗用一张说明Hadoop的图 ![img](http://pegw4tvmf.bkt.clouddn.com/image/hadoop_map_reduce.png)
 
 1. 将输入文件拆分成16到64M/块，用户程序拷贝到集群中的机器上
 
